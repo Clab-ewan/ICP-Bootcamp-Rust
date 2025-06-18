@@ -64,7 +64,7 @@ path = "modules/module3-data-types/exercises/02_error_handling_starter.rs"
 
 [[bin]]
 name = "module4_01"
-path = "modules/module4-code-organization/exercises/01_module_explorer_starter.rs"
+path = "modules/module4-code-organization/exercises/src/main.rs"
 
 [[bin]]
 name = "module5_01"
